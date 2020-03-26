@@ -1,0 +1,147 @@
+#title{
+  background-color: black;
+  padding: 1% 5%;
+}
+.head{
+  padding: 2% 15%;
+}
+body{
+  background-color: black;
+  font-family: "Montserrat";
+
+}
+h1{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font: Montserrat-black;
+  size:2rem;
+  line-height: 1.5;
+  text-align: center;
+  padding: 2%;
+  padding-top: 30px;
+}
+h2{
+  color: white;
+}
+em{
+  color: white;
+}
+h3{
+  color: white;
+  font-family: "Montserrat-Bold";
+}
+p{
+  color: #687466;
+}
+em{
+  padding-left: 10px;
+}
+.container-fluid{
+  padding: 2% 15%;
+}
+.col-lg-4{
+  text-align: center;
+}
+.act{
+  padding-bottom: 50px;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.image{
+  padding: 20px;
+  width: 70%;
+  height: 95%;
+}
+#features{
+  padding: 10% 15%;
+  background-color: black;
+}
+.cool{
+  padding-bottom: 30px;
+  color: white;
+}
+.cool:hover{
+  color: #687466;
+}
+
+/* Testimonials */
+#testimonials{
+  background-color: black;
+  text-align: center;
+}
+.game{
+  padding: 3% 15%;
+}
+
+.Exodus{
+  font-family: "Montserrat-Bold";
+  font-size: 2rem;
+  line-height: 1.5;
+  font-weight: bold;
+  width: 80%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+.testimonal-image{
+  width: 7%;
+  border-radius: 100%;
+
+}
+.Exo{
+  padding-bottom: 60px;
+  width: 100%;
+}
+.b{
+  padding-bottom: 10px;
+}
+
+/* Pricing */
+#pricing{
+  background-color: black;
+  padding: 3% 15%;
+  text-align: center;
+}
+.card-text{
+  text-align: left;
+}
+.description{
+  padding: 100px;
+}
+.card{
+  background-color: #687466;
+}
+.hech2{
+  padding-top: 100px;
+}
+/* Call to action */
+#cta{
+  background-color: black;
+  text-align: center;
+  padding: 3% 15%;
+}
+.end{
+  padding: 1%;
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.last{
+  margin: 3% 1% 3% 1%;
+}
+#footer{
+  text-align: center;
+  padding: 6% 15%;
+  background-color: black;
+}
+.final{
+  padding: 20px 10px;
+  color: white;
+}
+.final_1{
+  padding-right: 15px;
+}
